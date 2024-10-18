@@ -11,4 +11,4 @@ global _start
         syscall
 
         section .data
-        massage:db "Hello,World',10
+        message:db 'Hello,World', 10
