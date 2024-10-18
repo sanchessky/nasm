@@ -1,5 +1,10 @@
 
+# Estudos de Comando NASM
+
+
+
 ### Olá! Eu sou Thiago Sanches 😐,  sou iniciante na área de T.I 💻
+
 
 💰 #Ajude o projeto Upgrade no PC para realização de conteúdo no YOUTUBE
 
@@ -17,9 +22,9 @@
 
 
 
-# Estudos de Comando NASM
 
-## Primeiros Comandos
+
+### Primeiros Comandos
 
 
 * Programa Hello World
