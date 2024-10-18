@@ -1,7 +1,7 @@
 
 # Estudos de Comando NASM
 
-
+![NASM](https://img.shields.io/badge/nasm-000000)
 
 ### Olá! Eu sou Thiago Sanches 😐,  sou iniciante na área de T.I 💻
 
